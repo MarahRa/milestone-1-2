@@ -1,0 +1,128 @@
+#nav-bar {
+    font-style: bold;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    background-color: black;
+    color: white;
+    position: sticky;
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: gray;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: black;
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid;
+}
+
+label {
+    font-family: sans-serif;
+    color: black;
+}
+
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.mail {
+    margin-bottom: 20px;
+}
+
+textarea {
+    vertical-align: top;
+}
+
+p {
+    font-family: sans-serif;
+    color: black;
+}
+
+.yes {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.contact {
+    font-size: 20px;
+    transition: 0.3s font-size linear;
+}
+
+.contact:hover {
+    font-size: 60px;
+    transition: 0.1s font-size linear;
+}
+
+.no {
+    margin-bottom: 20px;
+}
+
+.map {
+    margin-top: 50px;
+}
+
+.visit {
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.yellow-dress-image {
+    height: 500px;
+    width: 350px;
+    border: solid;
+    border-color: black;
+    margin-right: 150px;
+    margin-top: 50px;
+}
+
+.blue-dress-image {
+    height: 500px;
+    width: 350px;
+    border: solid;
+    border-color: black;
+    margin-right: 150px;
+    margin-top: 50px;
+}
+
+.gold-dress-image {
+    height: 500px;
+    width: 350px;
+    border: solid;
+    border-color: black;
+    margin-top: 50px;
+}
