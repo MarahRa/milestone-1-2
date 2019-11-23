@@ -154,3 +154,31 @@ p {
         margin-top: 50px;
     }
 }
+
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
+    .yellow-dress-image {
+        height: 500px;
+        width: 350px;
+        border: solid;
+        border-color: black;
+        margin-right: 150px;
+        margin-top: 50px;
+    }
+
+    .blue-dress-image {
+        height: 500px;
+        width: 350px;
+        border: solid;
+        border-color: black;
+        margin-right: 150px;
+        margin-top: 50px;
+    }
+
+    .gold-dress-image {
+        height: 500px;
+        width: 350px;
+        border: solid;
+        border-color: black;
+        margin-top: 50px;
+    }
+}
