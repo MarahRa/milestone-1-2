@@ -182,3 +182,31 @@ p {
         margin-top: 50px;
     }
 }
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
+    .yellow-dress-image {
+        height: 500px;
+        width: 350px;
+        border: solid;
+        border-color: black;
+        margin-right: 150px;
+        margin-top: 50px;
+    }
+
+    .blue-dress-image {
+        height: 500px;
+        width: 350px;
+        border: solid;
+        border-color: black;
+        margin-right: 150px;
+        margin-top: 50px;
+    }
+
+    .gold-dress-image {
+        height: 500px;
+        width: 350px;
+        border: solid;
+        border-color: black;
+        margin-top: 50px;
+    }
+}
