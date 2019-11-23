@@ -126,3 +126,31 @@ p {
     border-color: black;
     margin-top: 50px;
 }
+
+@media screen and (max-width: 600px) {
+    .yellow-dress-image {
+        height: 500px;
+        width: 350px;
+        border: solid;
+        border-color: black;
+        margin-right: 150px;
+        margin-top: 50px;
+    }
+
+    .blue-dress-image {
+        height: 500px;
+        width: 350px;
+        border: solid;
+        border-color: black;
+        margin-right: 150px;
+        margin-top: 50px;
+    }
+
+    .gold-dress-image {
+        height: 500px;
+        width: 350px;
+        border: solid;
+        border-color: black;
+        margin-top: 50px;
+    }
+}
