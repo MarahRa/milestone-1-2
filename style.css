@@ -185,8 +185,8 @@ p {
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
     .yellow-dress-image {
-        height: 500px;
-        width: 350px;
+        height: 200px;
+        width: 150px;
         border: solid;
         border-color: black;
         margin-right: 150px;
@@ -194,8 +194,8 @@ p {
     }
 
     .blue-dress-image {
-        height: 500px;
-        width: 350px;
+        height: 200px;
+        width: 150px;
         border: solid;
         border-color: black;
         margin-right: 150px;
@@ -203,8 +203,8 @@ p {
     }
 
     .gold-dress-image {
-        height: 500px;
-        width: 350px;
+        height: 200px;
+        width: 150px;
         border: solid;
         border-color: black;
         margin-top: 50px;
